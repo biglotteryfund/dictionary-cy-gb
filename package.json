@@ -1,0 +1,29 @@
+{
+  "name": "dictionary-cy-gb",
+  "version": "1.0.0",
+  "description": "Welsh (United Kingdom) spelling dictionary in UTF-8",
+  "license": "GPL",
+  "keywords": [
+    "spelling",
+    "myspell",
+    "hunspell",
+    "dictionary",
+    "en",
+    "gb",
+    "english",
+    "united",
+    "kingdom"
+  ],
+  "repository": "https://github.com/biglotteryfund/dictionary-cy-gb",
+  "bugs": "https://github.com/biglotteryfund/dictionary-cy-gb/issues",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+    "Thomas Beverley <tom.beverley101@gmail.com>",
+    "Canolfan Bedwyr, University of Wales, Bangor"
+  ],
+  "files": [
+    "index.js",
+    "index.aff",
+    "index.dic"
+  ]
+}
